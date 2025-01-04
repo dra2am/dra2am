@@ -1,5 +1,9 @@
-## Hi there 👋
+## Hi, I'm Diana
 
+- 😄 I've been a software developer for over 3 years
+- 🌱 I'm currently learning C, C++, and Go
+- 🔭 I'm currently working on coding up a code excution engine
+- 📫 You can reach me at [dianarchaplin@gmail.com] or [LinkedIn](https://www.linkedin.com/in/diana-chaplin-4a406b177)
 <!--
 **dra2am/dra2am** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +18,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+-
